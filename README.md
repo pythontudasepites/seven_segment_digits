@@ -1,2 +1,3 @@
 # Hétszegmenses számjegyek grafikus megjelenítése
- Karakterláncként megadott számjegyek hétszegmenses számjegyekként megjelenítése
+## Karakterláncként megadott számjegyek hétszegmenses számjegyekként történő megjelenítését megvalósító grafikus elem (widget), amely a számjegyek kirajzolását a szegmenseket modellező pontok alapján végzi. Különböző számjegystílusokat lehet definiálni az egyes szegmensek pontjainak meghatározásával. 
+A számjegyeket a hét szegmens pontjaival lehet meghatározni a seven_segment_model modulban a DigitSegmentDefinitions alosztályaként az ott látható két alosztályhoz (Digit1SegmentDefinitions és Digit2SegmentDefinitions) hasonló módon a szegmenseket meghatározó pontok relatív távolságainak megadásával. Ehhez a jelöléseket - amik egyúttal a változónevek is - a mellékelt 1. ábra mutatja.
