@@ -9,3 +9,4 @@ A Digit7Segments a szegmensek pontjai alapján rajzolja meg a számjegyeket, aza
 A *seven_segment_test_app* modul mutatja be a használatot, amellyel egy vagy több számjegyet jeleníthetünk meg, amelyek színét és méretét is előre meghatározhatjuk. Egy választógombbal pedig számjegystílust is válthatunk. Néhány eredményképet láthatunk alább:
 
 ### Képernyőképek
+<img src="https://github.com/pythontudasepites/Sliding_puzzle/blob/main/sliding_puzlle_screenshot_github.jpg" width="542" height="462">
