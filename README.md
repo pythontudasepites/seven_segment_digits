@@ -1,0 +1,2 @@
+# seven_segment_digits
+ Karakterláncként megadott számjegyek hétszegmenses számjegyekként megjelenítése
