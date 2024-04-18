@@ -11,4 +11,4 @@ A Digit7Segments a szegmensek pontjai alapján rajzolja meg a számjegyeket, aza
 A *seven_segment_test_app* modul mutatja be a használatot, amellyel egy vagy több számjegyet jeleníthetünk meg, amelyek színét és méretét is előre meghatározhatjuk. Egy választógombbal pedig számjegystílust is válthatunk. Néhány eredményképet láthatunk alább.
 
 ### Képernyőképek
-<img src="https://github.com/pythontudasepites/seven_segment_digits/blob/main/seven_segment_digits_screenshots_github.jpg" width="825" height="480">
+<img src="https://github.com/pythontudasepites/seven_segment_digits/blob/main/seven_segment_digits_screenshots_github.jpg" width="720" height="420">
