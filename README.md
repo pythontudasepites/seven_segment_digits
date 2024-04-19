@@ -1,5 +1,5 @@
 # Hétszegmenses számjegyek grafikus megjelenítése
-## Karakterláncként megadott számjegyek hétszegmenses számjegyekként történő megjelenítését megvalósító grafikus elem osztály, amely a számjegyek kirajzolását a szegmenseket modellező pontok alapján végzi. 
+## A *seven_segment_digit_widget* modul olyan osztályt valósít meg, amely decimális számjegyek sorozatát hétszegmenses számjegyekként jelenít meg grafikus felületen úgy, hogy a számjegyek kirajzolását a szegmenseket modellező pontok alapján végzi. 
 A számjegyeket a hét szegmens pontjaival lehet meghatározni a *seven_segment_model* modulban a DigitSegmentDefinitions alosztályaként az ott látható két alosztályhoz (Digit1SegmentDefinitions és Digit2SegmentDefinitions) hasonló módon, a szegmenseket meghatározó pontok relatív távolságainak megadásával. A hét szegmensnek vízszintesen és függőlegesen szimmetrikusnak kell lenni. A szegmensek tervezéséhez a jelöléseket - amik egyúttal a programban változónevek is - az alábbi ábra mutatja.
 
 <img src="https://github.com/pythontudasepites/seven_segment_digits/blob/main/seven_segment_digits_design.jpg" width="350" height="280">
